@@ -20,13 +20,26 @@
     font-weight: bold;
 }
 
+.btn1:hover{
+    background-color: #fff ;
+    border: 2px solid #4BA87D;
+    color: #4BA87D;
+    padding: 7px 26px;
+}
+
+
 .btn2{
     background-color: #fff ;
-    padding: 9px 28px;
+    padding: 7px 26px;
     border: 2px solid #4BA87D;
     color: #4BA87D;
     margin-left: 20px;
     font-weight: bold;
+}
+
+.btn2:hover{
+    background-color: #4BA87D;
+    color: #fff;
 }
 
         /* header or navbar styles */
@@ -335,7 +348,7 @@ footer{
         margin-left: 0px;
         margin-right: 0px;
     }
-    
+
     /* top-banner styles */
 
     .top-banner{
